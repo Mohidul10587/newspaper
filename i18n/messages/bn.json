@@ -1,0 +1,34 @@
+{
+  "site": {
+    "title": "নিউজ পোর্টাল",
+    "description": "আপনার বিশ্বস্ত সংবাদের উৎস"
+  },
+  "navigation": {
+    "home": "হোম",
+    "categories": "বিভাগসমূহ",
+    "search": "অনুসন্ধান",
+    "about": "আমাদের সম্পর্কে",
+    "contact": "যোগাযোগ"
+  },
+  "common": {
+    "readMore": "আরও পড়ুন",
+    "share": "শেয়ার করুন",
+    "comments": "মন্তব্য",
+    "loading": "লোড হচ্ছে...",
+    "error": "কিছু ভুল হয়েছে",
+    "noResults": "কোনো ফলাফল পাওয়া যায়নি"
+  },
+  "theme": {
+    "light": "হালকা",
+    "dark": "গাঢ়",
+    "system": "সিস্টেম"
+  },
+  "language": {
+    "english": "English",
+    "bengali": "বাংলা"
+  },
+  "footer": {
+    "allRightsReserved": "সকল অধিকার সংরক্ষিত",
+    "followUs": "আমাদের ফলো করুন"
+  }
+}

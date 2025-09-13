@@ -1,0 +1,34 @@
+{
+  "site": {
+    "title": "News Portal",
+    "description": "Your trusted source for news"
+  },
+  "navigation": {
+    "home": "Home",
+    "categories": "Categories",
+    "search": "Search",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "readMore": "Read More",
+    "share": "Share",
+    "comments": "Comments",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noResults": "No results found"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "english": "English",
+    "bengali": "বাংলা"
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved",
+    "followUs": "Follow Us"
+  }
+}
